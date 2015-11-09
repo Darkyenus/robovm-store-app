@@ -15,3 +15,5 @@ ios/robovm-build
 core/bin
 ios/robovm-logs
 ios/bin
+
+target/
